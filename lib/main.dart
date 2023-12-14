@@ -35,7 +35,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   String url =
-      'https://app.powerbi.com/view?r=eyJrIjoiMjE3NGM2YjEtZjc1Zi00Y2RhLTg5MjctMDhkY2IwNThmNjczIiwidCI6Ijk4ZmM5YWY2LWZkOWItNGI5Yi1hZjA2LTNiY2VjYmQwNzNkMiIsImMiOjR9';
+      'https://app.powerbi.com/view?r=eyJrIjoiMzMyYzlkNzYtNDlmYS00MmRiLWExZmYtZTJhZjU5ZTZiYjY1IiwidCI6ImRjMzQ5NmU3LWIyNmYtNDdjMy05ZDgwLWFmNDdiYzI0MzU3NyJ9';
 
   @override
   void initState() {
